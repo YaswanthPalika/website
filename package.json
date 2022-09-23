@@ -4,7 +4,7 @@
   "version": "0.1.0",
   "author": "yaswanthpalika",
   "bugs": {
-    "url": "https://github.com/YaswanthPalika/yaswanth/issues"
+    "url": "https://github.com/YaswanthPalika/website/issues"
   },
   "dependencies": {
     "@fortawesome/fontawesome-svg-core": "^1.2.35",
@@ -61,7 +61,7 @@
     "gh-pages": "^4.0.0",
     "prettier": "^2.0.4"
   },
-  "homepage": "https://github.com/YaswanthPalika/yaswanth",
+  "homepage": "https://github.com/YaswanthPalika/website",
   "keywords": [
     "Yaswanth",
     "Palika",
@@ -77,7 +77,7 @@
   "main": "n/a",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/YaswanthPalika/yaswanth.git"
+    "url": "git+https://github.com/YaswanthPalika/website.git"
   },
   "scripts": {
     "clean": "gatsby clean",
