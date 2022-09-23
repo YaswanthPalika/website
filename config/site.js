@@ -9,7 +9,7 @@ module.exports = {
   ],
   description: "welcome to my website",
   author: "yaswanthpalika",
-  trackingId: "",
+  trackingId: "000000",
   defaultLang: "en",
   langTextMap: {
     en: "English",
