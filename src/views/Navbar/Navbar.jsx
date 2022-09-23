@@ -57,7 +57,7 @@ const MyNavbar = ({ anchors, frontmatter, extraItems }) => {
               <NavItem key={anchor} to={anchor} onClick={closeMenu} />
             ))}
             <a
-              href="https://drive.google.com/file/d/1-bQQY3ny-Ylxpc4dyGa_ZQEE3i2XVZUB/view?usp=sharing"
+              href="https://drive.google.com/file/d/1AhdUldQ30Ix1aqSrNvfcdG_yOpZ3YJvZ/view?usp=sharing"
               className="nav-link"
               target="_blank"
               rel="noreferrer"
