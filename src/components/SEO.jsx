@@ -54,11 +54,11 @@ const SEO = ({ lang, description, meta, keywords, title }) => {
         {
           property: `og:image`,
           content:
-            "https://raw.githubusercontent.com/RonLek/RonLek.github.io/master/content/assets/images/background.png",
+            "https://res.cloudinary.com/doaejwdmk/image/upload/v1662897417/my_image_xf851i.jpg",
         },
         {
           property: `og:url`,
-          content: "https://ronlek.github.io",
+          content: "https://yaswanthpalika.github.io/yaswanth",
         },
         {
           name: `twitter:card`,
@@ -83,7 +83,7 @@ const SEO = ({ lang, description, meta, keywords, title }) => {
         {
           name: `twitter:image`,
           content:
-            "https://raw.githubusercontent.com/RonLek/RonLek.github.io/master/content/assets/images/background.png",
+            "https://res.cloudinary.com/doaejwdmk/image/upload/v1662897417/my_image_xf851i.jpg",
         },
       ]
         .concat(
