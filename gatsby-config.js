@@ -103,5 +103,5 @@ module.exports = {
       },
     },
   ],
-    pathPrefix: "/YaswanthPalika",
+    pathPrefix: "/yaswanthpalika",
 };

@@ -7,7 +7,7 @@ module.exports = {
     "yaswanth palika",
     "yaswanth website",
   ],
-  description: "Maker | Engineer | Learner",
+  description: "welcome to my website",
   author: "yaswanthpalika",
   trackingId: "",
   defaultLang: "en",
